@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/cmarshall13/google-books#readme",
   "devDependencies": {
-    "concurrently": "^6.5.1"
+    "concurrently": "^6.5.1",
+    "dotenv": "^10.0.0"
   },
   "dependencies": {
     "apollo-server-express": "^2.15.0"
